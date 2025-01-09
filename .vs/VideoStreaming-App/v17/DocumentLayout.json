@@ -1,0 +1,876 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\mproductora\\formcreateproductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\mproductora\\formcreateproductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\business\\service\\interfaces\\iserieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|solutionrelative:business\\service\\interfaces\\iserieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\business\\service\\interfaces\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|solutionrelative:business\\service\\interfaces\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\controllers\\mseriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\controllers\\mseriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\mserie\\series.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\mserie\\series.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\impl\\producerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\impl\\producerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\controllers\\mproductoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\controllers\\mproductoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\mproductora\\productora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\mproductora\\productora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\mgenero\\creargenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\mgenero\\creargenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\migrations\\20240916212000_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\migrations\\20240916212000_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\serie\\detailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\serie\\detailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\producer\\producermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\producer\\producermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\producer\\producerpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\producer\\producerpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\business\\service\\impl\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|solutionrelative:business\\service\\impl\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\controllers\\mgenerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\controllers\\mgenerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\impl\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\impl\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\mgenero\\genero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\mgenero\\genero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\genre\\genremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\genre\\genremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\genre\\generopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\genre\\generopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\interfaces\\iserierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\interfaces\\iserierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\business\\service\\impl\\serieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|solutionrelative:business\\service\\impl\\serieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\business\\service\\impl\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|solutionrelative:business\\service\\impl\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\mserie\\formcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\mserie\\formcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\serie\\seriepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\serie\\seriepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\serie\\seriemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\serie\\seriemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\entities\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\entities\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\entities\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\entities\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\impl\\serierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\impl\\serierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\interfaces\\iproducerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\interfaces\\iproducerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\repository\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\repository\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\business\\service\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E8E07-F567-4B70-A071-DC8C5A1F6CB8}|Business\\Business.csproj|solutionrelative:business\\service\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\videostreaming-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\videostreaming-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D747A7A-9766-455E-B29F-6CD6A8A890B6}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\migrations\\20240916212000_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\migrations\\20240916212000_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|c:\\users\\rodri\\onedrive\\escritorio\\programacion\\videostreaming-app\\videostreaming-app\\videostreaming-app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ADDA1103-066B-420B-9E8A-48FD9AC73AF6}|VideoStreaming-App\\VideoStreaming-App.csproj|solutionrelative:videostreaming-app\\videostreaming-app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Application\\Entities\\Series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Entities\\Series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Application\\Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Series.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Application\\Entities\\Series.cs",
+              "RelativeDocumentMoniker": "Application\\Entities\\Series.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Application\\Entities\\Series.cs",
+              "RelativeToolTip": "Application\\Entities\\Series.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:18:14.28Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Interfaces\\IProducerService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Interfaces\\IProducerService.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Interfaces\\IProducerService.cs",
+              "RelativeToolTip": "Business\\Service\\Interfaces\\IProducerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:16:53.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Series.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MSerie\\Series.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\MSerie\\Series.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MSerie\\Series.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\MSerie\\Series.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:58:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSerieController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\MSerieController.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Controllers\\MSerieController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\MSerieController.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Controllers\\MSerieController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowF4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:42:41.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISerieService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Interfaces\\ISerieService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Interfaces\\ISerieService.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Interfaces\\ISerieService.cs",
+              "RelativeToolTip": "Business\\Service\\Interfaces\\ISerieService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:20:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCreateProductora.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MProductora\\FormCreateProductora.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\MProductora\\FormCreateProductora.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MProductora\\FormCreateProductora.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\MProductora\\FormCreateProductora.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T13:57:04.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProducerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Impl\\ProducerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Impl\\ProducerRepository.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Impl\\ProducerRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Impl\\ProducerRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:12:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MProductoraController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\MProductoraController.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Controllers\\MProductoraController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\MProductoraController.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Controllers\\MProductoraController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:41:22.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productora.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MProductora\\Productora.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\MProductora\\Productora.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MProductora\\Productora.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\MProductora\\Productora.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:18:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearGenero.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MGenero\\CrearGenero.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\MGenero\\CrearGenero.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MGenero\\CrearGenero.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\MGenero\\CrearGenero.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T19:26:06.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T23:24:01.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240916212000_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:20:00.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProducerModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Producer\\ProducerModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Producer\\ProducerModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Producer\\ProducerModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Producer\\ProducerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:25:50.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Serie\\DetailsModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Serie\\DetailsModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Serie\\DetailsModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Serie\\DetailsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:55:10.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProducerPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Producer\\ProducerPageModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Producer\\ProducerPageModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Producer\\ProducerPageModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Producer\\ProducerPageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:53:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Impl\\GenreService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Impl\\GenreService.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Impl\\GenreService.cs",
+              "RelativeToolTip": "Business\\Service\\Impl\\GenreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:07:28.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MGeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\MGeneroController.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Controllers\\MGeneroController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\MGeneroController.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Controllers\\MGeneroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:17:32.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "VideoStreaming-App\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T15:49:55.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:08:00.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowEAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:20:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Program.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Program.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Program.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:24:11.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\appsettings.json",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\appsettings.json",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\appsettings.json",
+              "RelativeToolTip": "VideoStreaming-App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T20:46:56.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GeneroPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Genre\\GeneroPageModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Genre\\GeneroPageModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Genre\\GeneroPageModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Genre\\GeneroPageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:30:37.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Repository\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:09:59.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\appsettings.Development.json",
+              "RelativeToolTip": "VideoStreaming-App\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T14:51:22.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenreModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Genre\\GenreModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Genre\\GenreModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Genre\\GenreModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Genre\\GenreModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:21:10.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Genero.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MGenero\\Genero.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\MGenero\\Genero.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MGenero\\Genero.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\MGenero\\Genero.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T19:18:39.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Impl\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Impl\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Impl\\GenreRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Impl\\GenreRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA0wDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:26:41.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISerieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Interfaces\\ISerieRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Interfaces\\ISerieRepository.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Interfaces\\ISerieRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Interfaces\\ISerieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:17:50.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SerieService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Impl\\SerieService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Impl\\SerieService.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Impl\\SerieService.cs",
+              "RelativeToolTip": "Business\\Service\\Impl\\SerieService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:21:20.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Impl\\ProducerService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Impl\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Impl\\ProducerService.cs",
+              "RelativeToolTip": "Business\\Service\\Impl\\ProducerService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:17:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MSerie\\FormCreate.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\MSerie\\FormCreate.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\MSerie\\FormCreate.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\MSerie\\FormCreate.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T14:10:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeriePageModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Serie\\SeriePageModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Serie\\SeriePageModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Serie\\SeriePageModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Serie\\SeriePageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:41:29.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SerieModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Serie\\SerieModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\Serie\\SerieModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\Serie\\SerieModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\Serie\\SerieModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:19:10.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:21:47.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:20:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Entities\\Serie.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Serie.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Entities\\Serie.cs",
+              "RelativeToolTip": "Data\\Entities\\Serie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:10:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Entities\\Producer.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Producer.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Entities\\Producer.cs",
+              "RelativeToolTip": "Data\\Entities\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:09:41.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "VideoStreaming-App\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:48:03.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SerieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Impl\\SerieRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Impl\\SerieRepository.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Impl\\SerieRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Impl\\SerieRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA4wEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:19:11.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IProducerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Interfaces\\IProducerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Interfaces\\IProducerRepository.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Interfaces\\IProducerRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Interfaces\\IProducerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:12:05.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Entities\\Genre.cs",
+              "RelativeToolTip": "Data\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:09:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Repository\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:21:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Interfaces\\IGenreService.cs",
+              "RelativeDocumentMoniker": "Business\\Service\\Interfaces\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Business\\Service\\Interfaces\\IGenreService.cs",
+              "RelativeToolTip": "Business\\Service\\Interfaces\\IGenreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:31:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VideoStreaming-App.csproj",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\VideoStreaming-App.csproj",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\VideoStreaming-App.csproj",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\VideoStreaming-App.csproj",
+              "RelativeToolTip": "VideoStreaming-App\\VideoStreaming-App.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T20:05:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "RelativeToolTip": "VideoStreaming-App\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-09-23T00:32:58.076Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T22:52:26.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T21:45:32.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240916212000_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.Designer.cs",
+              "RelativeToolTip": "VideoStreaming-App\\Migrations\\20240916212000_InitialMigration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:27:39.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T13:29:14.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VideoStreaming-App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T16:02:03.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VideoStreaming-App",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\VideoStreaming-App.csproj",
+              "RelativeDocumentMoniker": "VideoStreaming-App\\VideoStreaming-App.csproj",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\VideoStreaming-App\\VideoStreaming-App.csproj",
+              "RelativeToolTip": "VideoStreaming-App\\VideoStreaming-App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T20:44:36.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Escritorio\\Programacion\\VideoStreaming-App\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T19:50:32.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

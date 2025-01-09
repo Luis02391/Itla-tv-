@@ -1,0 +1,12 @@
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\bin\Debug\net8.0\Application.dll
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.dll
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\rodri\OneDrive\Escritorio\Programacion\VideoStreaming-App\Application\obj\Debug\net8.0\ref\Application.dll
